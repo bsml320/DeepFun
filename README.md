@@ -9,12 +9,10 @@
 
 ## Tutorials
 ### Compute SNP Activity Difference profiles.
-&#8194;&#8194;The most useful capability of DeepFun right now is to annotate noncoding genomic variants with their influence on functional properties like accessibility.
-More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sad.ipynb
+&#8194;&#8194;The most useful capability of DeepFun right now is to annotate noncoding genomic variants with their influence on functional properties like accessibility. More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sad.ipynb
 
 ### Execute an in silico saturated mutagenesis
-&#8194;&#8194;Saturated mutagenesis is a powerful tool both for dissecting a specific sequence of interest and understanding what the model learned.  
-&#8194;&#8194;More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sat_mut.ipynb
+&#8194;&#8194;Saturated mutagenesis is a powerful tool both for dissecting a specific sequence of interest and understanding what the model learned. More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sat_mut.ipynb
 
 ## Read more about the method in the manuscript here:
 Pei G, Hu R, Dai Y, Manuel A M, Zhao Z, Jia P. Predicting regulatory variants using a dense epigenomic mapped CNN model elucidated the molecular basis of trait-tissue associations. Nucleic Acids Research. In submission.
