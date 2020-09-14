@@ -5,13 +5,12 @@
 &#8194;&#8194;We present a user-friendly web server, DeepFun, available at https://bioinfo.uth.edu/deepfun/.
 
 ## Local analysis
-&#8194;&#8194;DeepFun is an updated model based on Basset Framework (https://github.com/davek44/Basset) based on Torch7 and Python. If you want to conduct local analysis for large mounts of data, please follow Basset tutorials install dependencies packages at first.  
+&#8194;&#8194;DeepFun is an updated model based on Basset Framework (https://github.com/davek44/Basset) based on Torch7 and Python. If you want to conduct local analysis for large mounts of data, please follow Basset tutorials install dependencies packages at first. In addition, you'll need to download the pre-trained model from github here: dnacnn_best_A.zip (DNA accessibility sites, histone marks and Transcription factor CTCF binding sites) or dnacnn_best_B.zip (Transcription factors binding sites).  
 
 ## Tutorials
 ### Compute SNP Activity Difference profiles.
 &#8194;&#8194;The most useful capability of DeepFun right now is to annotate noncoding genomic variants with their influence on functional properties like accessibility.
-To run this tutorial, you'll need to either download the pre-trained model from github here: dnacnn_best_A.zip (DNA accessibility sites, histone marks and Transcription factor CTCF binding sites) or dnacnn_best_B.zip (Transcription factors binding sites).  
-&#8194;&#8194;More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sad.ipynb
+More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sad.ipynb
 
 ### Execute an in silico saturated mutagenesis
 &#8194;&#8194;Saturated mutagenesis is a powerful tool both for dissecting a specific sequence of interest and understanding what the model learned.  
