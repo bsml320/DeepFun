@@ -7,7 +7,7 @@ DeepFun is a updated model based on Basset Framework (https://github.com/davek44
 ## Tutorials
 ### Compute SNP Activity Difference profiles.
 The most useful capability of DeepFun right now is to annotate noncoding genomic variants with their influence on functional properties like accessibility.
-To run this tutorial, you'll need to either download the pre-trained model from https://www.dropbox.com/s/rguytuztemctkf8/pretrained_model.th.gz or substitute your own file here: dnacnn_best_A.zip (DNA accessibility sites, histone marks and Transcription factor CTCF binding sites) or dnacnn_best_B.zip (Transcription factors binding sites).
+To run this tutorial, you'll need to either download the pre-trained model from github here: dnacnn_best_A.zip (DNA accessibility sites, histone marks and Transcription factor CTCF binding sites) or dnacnn_best_B.zip (Transcription factors binding sites).
 
 
 model_file = '../data/models/pretrained_model.th'
