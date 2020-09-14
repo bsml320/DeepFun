@@ -10,11 +10,11 @@
 ## Tutorials
 ### Compute SNP Activity Difference profiles.
 &#8194;&#8194;The most useful capability of DeepFun right now is to annotate noncoding genomic variants with their influence on functional properties like accessibility.
-To run this tutorial, you'll need to either download the pre-trained model from github here: dnacnn_best_A.zip (DNA accessibility sites, histone marks and Transcription factor CTCF binding sites) or dnacnn_best_B.zip (Transcription factors binding sites). 
+To run this tutorial, you'll need to either download the pre-trained model from github here: dnacnn_best_A.zip (DNA accessibility sites, histone marks and Transcription factor CTCF binding sites) or dnacnn_best_B.zip (Transcription factors binding sites).  
 &#8194;&#8194;More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sad.ipynb
 
 ### Execute an in silico saturated mutagenesis
-&#8194;&#8194;Saturated mutagenesis is a powerful tool both for dissecting a specific sequence of interest and understanding what the model learned. 
+&#8194;&#8194;Saturated mutagenesis is a powerful tool both for dissecting a specific sequence of interest and understanding what the model learned.  
 &#8194;&#8194;More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sat_mut.ipynb
 
 ## Read more about the method in the manuscript here:
