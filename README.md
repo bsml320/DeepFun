@@ -4,7 +4,7 @@
 ## Webserver
 &#8194;&#8194;We present a user-friendly web server, DeepFun, available at https://bioinfo.uth.edu/deepfun/.
 
-## Documentation
+## Local 
 &#8194;&#8194;DeepFun is an updated model based on Basset Framework (https://github.com/davek44/Basset) based on Torch7 and Python. If you want to conduct local analysis for large mounts of data, please follow Basset tutorials install dependencies packages at first.  
 
 ## Tutorials
