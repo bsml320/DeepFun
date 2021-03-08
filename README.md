@@ -15,4 +15,4 @@
 &#8194;&#8194;Saturated mutagenesis is a powerful tool both for dissecting a specific sequence of interest and understanding what the model learned. More details can follow https://github.com/davek44/Basset/blob/master/tutorials/sat_mut.ipynb.
 
 ## Read more about the method in the manuscript here:
-Pei G, Hu R, Dai Y, Manuel A M, Zhao Z, Jia P. Predicting regulatory variants using a dense epigenomic mapped CNN model elucidated the molecular basis of trait-tissue associations. Nucleic Acids Research. In submission.
+Pei G, Hu R, Dai Y, Manuel A M, Zhao Z, Jia P. Predicting regulatory variants using a dense epigenomic mapped CNN model elucidated the molecular basis of trait-tissue associations. Nucleic Acids Research. 49(1):53-66. https://pubmed.ncbi.nlm.nih.gov/33300042/
