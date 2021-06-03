@@ -16,3 +16,7 @@
 
 ## Read more about the method in the manuscript here:
 Pei G, Hu R, Dai Y, Manuel A M, Zhao Z, Jia P. Predicting regulatory variants using a dense epigenomic mapped CNN model elucidated the molecular basis of trait-tissue associations. Nucleic Acids Research. 49(1):53-66. https://pubmed.ncbi.nlm.nih.gov/33300042/
+
+The following files can be found here:
+http://bioinfo.uth.edu/deepfun/models/DeepFun_model/DeepFun_best_A.th.gz
+http://bioinfo.uth.edu/deepfun/models/DeepFun_model/DeepFun_best_B.th.gz
